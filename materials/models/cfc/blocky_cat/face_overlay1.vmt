@@ -1,6 +1,6 @@
 UnlitGeneric
 {
-	$basetexture    "models\cfc\blocky_cat\face_overlay"
+	$basetexture    "models\cfc\blocky_cat\face_overlay1"
 	$alphatest 1
 	$alphatestreference		0.5
 }
