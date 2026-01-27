@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture    "models\cfc\blocky_cat\face_overlay"
+	$alphatest 1
+	$alphatestreference		0.5
+}
